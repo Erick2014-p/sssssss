@@ -36,4 +36,54 @@ h1 {
     text-align: center;
     color: black;
     font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
 }
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin:0;
+    display:flex;
+}
+
+article {
+    background-color: white;
+    padding:0px;
+    width: 400px;
+    margin:15px;
+    text-align:center;
+}
+
+.article-but {
+    text-decoration: none;
+    color:white;
+    background-color:#5116DB;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 25px 10px 5px;
+
+}
+
+footer {
+    background-color: white;
+    padding:0;
+    flex:content;
+}
+
+footer a {
+    margin-right: ;
+}
+footer p {
+    font-size: 24px;
+}
+.rr{
+    padding-bottom:20px;
+}
+.ww{
+    background-color:lightblue;
+}
+
